@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 # User define
+.DS_Store
+.vscode/
 reference/
 twsapi_macunix.976.01/
