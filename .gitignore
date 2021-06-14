@@ -130,6 +130,7 @@ dmypy.json
 
 # User define
 .DS_Store
+test.py
 .vscode/
 reference/
 twsapi_macunix.976.01/
