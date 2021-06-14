@@ -1,9 +1,3 @@
-"""
-Date: 09-APR-2021
-Author: Andy Zeng
-"""
-
-
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper
 import datetime as dt
