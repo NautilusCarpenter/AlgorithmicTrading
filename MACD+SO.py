@@ -1,8 +1,3 @@
-"""
-Date: 22-APR-2021
-Author: Andy Zeng
-"""
-
 from base import Base_App
 from command import (
     generateOrderId,
