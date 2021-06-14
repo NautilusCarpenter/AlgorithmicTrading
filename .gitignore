@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# User define
+reference/
+twsapi_macunix.976.01/
