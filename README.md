@@ -14,4 +14,4 @@ Inspired by Mayank Rasu (https://rasuquant.com/)
 **Strategies**:
 
 * MACD+SO.py - the strategy of Moving Average Convergence Divergence + Stochastic Oscillator, including the functions to back-test and paper-trade
-
+* ORB.py - the strategy of Opening Range Breakout (https://www.warriortrading.com/opening-range-breakout/)
