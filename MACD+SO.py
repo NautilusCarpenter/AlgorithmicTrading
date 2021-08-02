@@ -17,6 +17,7 @@ import threading
 import time
 
 
+
 # ########## BLOCK START - Strategy ########## #
 class Strategy(Base_App):
     pass
