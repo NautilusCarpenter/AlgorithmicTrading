@@ -21,6 +21,25 @@ class Base_App(IB_Wrapper, IB_Client):
         self.account_df = pd.DataFrame(
             columns=["ReqId", "Account", "Tag", "Value", "Currency"]
         )
+        self.execution_df = pd.DataFrame(
+            columns=[
+                "ReqId",
+                "PermId",
+                "Symbol",
+                "SecType",
+                "Currency",
+                "ExecId",
+                "Time",
+                "Account",
+                "Exchange",
+                "Side",
+                "Shares",
+                "Price",
+                "AvPrice",
+                "cumQty",
+                "OrderRef",
+            ]
+        )
         self.order_df = pd.DataFrame(
             columns=[
                 "PermId",
